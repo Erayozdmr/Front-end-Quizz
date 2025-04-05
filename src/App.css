@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .bg-gradient-radial {
+      background: radial-gradient(ellipse, rgba(17, 17, 17, 0.8) 0%, rgb(0, 0, 0) 70%);
+    }
+    .bg-gradient-radial1 {
+        background: radial-gradient(ellipse, rgb(197, 90, 2) 0%, rgb(0, 0, 0) 70%);
+      }
+    .bg-gradient-radial2 {
+        background: radial-gradient(ellipse, rgba(0, 82, 204, 0.8) 0%, rgb(0, 0, 0) 70%);
+      }
+    .bg-gradient-radial3 {
+        background: radial-gradient(ellipse, rgba(181, 184, 0, 0.8) 0%, rgb(0, 0, 0) 70%);
+      }
+  
+  }
+  
+
+  
